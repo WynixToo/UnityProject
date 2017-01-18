@@ -453,8 +453,10 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudServicesEnabled:
+    Collab: 0
+    UNet: 1
+  cloudProjectId: 5bd6b2ed-4aa0-49a6-885f-19b5383786bf
+  projectName: AndroidUnityProject
+  organizationId: hwtoo
   cloudEnabled: 0
